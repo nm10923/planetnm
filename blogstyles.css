@@ -1,0 +1,53 @@
+    a:link {
+      font-family: 'Roboto', sans-serif;
+      color: #FFFFFF;
+      text-decoration: none;
+    }
+    
+    a:visited {
+      font-family: 'Roboto', sans-serif;
+      color: #FFFFFF;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      font-family: 'Roboto', sans-serif;
+      color: #FFFFFF;
+      text-decoration: none; 
+      background-color: #000000;
+      
+    }
+    a:active {
+      font-family: 'Roboto', sans-serif;
+      color: #FFFFFF;
+      text-decoration: none; 
+      background-color: #000000;    
+    }
+    
+    body {
+      background-color: #152f47;
+    
+    }
+    
+    .postContents {
+      width: 35%;
+    
+    }
+    
+    h1 {
+      color: #FFFFFF;
+      font-family: 'Roboto', sans-serif;
+    }
+    
+    p {
+      color: #FFFFFF;
+      font-family: 'Roboto', sans-serif;
+    }
+    
+    .date {
+      color: #FFFFFF;
+      font-family: 'Roboto', sans-serif;
+      font-size: 7.5px;
+    }
+    
+    
