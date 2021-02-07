@@ -1,3 +1,9 @@
+    .pageContent {
+        max-width: 750px;
+        margin: auto;
+        text-align: center;
+    }
+    
     a:link {
       font-family: 'Roboto', sans-serif;
       color: #FFFFFF;
